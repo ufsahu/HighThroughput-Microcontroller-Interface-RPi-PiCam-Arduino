@@ -13,6 +13,9 @@ Following is the basic pipeline of the entire High-Throughput System:
 
 ![image](https://github.com/user-attachments/assets/1ac18795-51f4-4cf9-ad2b-82d22b3ae8d1)
 
+
+The recorded videos were retrieved from the Raspbian environment. The idea was to execute PiCam recording and Arduino LED lighting protocols simultaneously. Once the protocol ends, Arduino sends a signal to the RPi Board to end the recording. This was repeated for different lighting protocols.
+
 The main thesis can be accessed here: https://www.doria.fi/handle/10024/169613
 
 
